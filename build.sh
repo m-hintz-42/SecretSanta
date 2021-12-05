@@ -1,3 +1,3 @@
 #!/bin/bash
-pip install -r requirements.txt
-python response_server.py
+pip3 install -r requirements.txt
+python3 response_server.py
